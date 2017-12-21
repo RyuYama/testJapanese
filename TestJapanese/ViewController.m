@@ -20,6 +20,7 @@
     
     // Japanese Test
     // 日本語　テスト
+    // 改行　　テスト
     
     // Do any additional setup after loading the view, typically from a nib.
 }
