@@ -19,6 +19,7 @@
     [super viewDidLoad];
     
     // Japanese Test
+    // 日本語　テスト
     
     // Do any additional setup after loading the view, typically from a nib.
 }
